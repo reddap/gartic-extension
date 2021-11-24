@@ -4,8 +4,7 @@
 
 Simples script de dicas para gkkkk, entre outras funções menos interessantes.
 
-Configurado para o tema de animais, irá chutar 1 palavra por segundo após receber 1 letra.
->_o primeiro chute é imediato_
+Configurado para o tema de animais, irá chutar 1 palavra por segundo após receber 1 letra. O primeiro chute é imediato.
 
 ###### Todas as funcionalidades:
 - acertar automaticamente palavras com dica;
