@@ -1,4 +1,5 @@
 # Gatric
+Version for kids of extension created for fun. :)
 
 ## Introduction
 
@@ -40,7 +41,7 @@ var script = document.createElement('script');
 Para facilitar o processo e evitar a repetição toda vez que for carregar o site, pode-se criar uma extensão usando este script como conteúdo.
 
 >[Directory for manual process](https://github.com/reddap/gartic-extension/tree/main/extension-for-chrome)
-
+###### Ou download da extensão já pronta:
 >[Download extension.rar](https://cdn.discordapp.com/attachments/905408394544971836/910226584181538866/gatric_v0.9.2.rar)
 
 ###### Adicionando extensão ao Chrome - Quick Tutorial
