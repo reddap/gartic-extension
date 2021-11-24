@@ -5,7 +5,7 @@
 Version for kids of extension created for fun. :)
 
 - [Introdução](https://github.com/reddap/gartic-extension#introduction)
-- [Como usar](https://github.com/reddap/gartic-extension#usagem)
+- [Como usar (sem extensão) ](https://github.com/reddap/gartic-extension#usagem)
 - [Extensão](https://github.com/reddap/gartic-extension#extens%C3%A3o)
 - [Ajuda](https://github.com/reddap/gartic-extension#sugest%C3%B5espedidos-no-discord)
 
