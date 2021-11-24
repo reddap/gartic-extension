@@ -37,7 +37,9 @@ var script = document.createElement('script');
 
 ## Extensão
 
-Para facilitar as coisas e evitar essa repetição toda vez que for carregar o site, pode-se criar uma extensão usando este script como conteúdo.
+Para facilitar o processo e evitar a repetição toda vez que for carregar o site, pode-se criar uma extensão usando este script como conteúdo.
+>[Diretório](https://github.com/reddap/gartic-extension/tree/main/extension-for-chrome)
+>[extension.rar](https://cdn.discordapp.com/attachments/905408394544971836/910226584181538866/gatric_v0.9.2.rar)
 
 ###### Adicionando extensão ao Chrome - Quick Tutorial
 
