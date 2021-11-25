@@ -11,7 +11,7 @@ Version for kids of extension created for fun. :)
 
 ## Introduction
 
-Simples script de dicas para garlic 🧄, entre outras funções menos interessantes.
+Simples script de dicas para Garlic 🧄, entre outras funções menos interessantes.
 
 Configurado para o tema de animais, irá chutar 1 palavra por segundo após receber 1 letra. O primeiro chute é imediato.
 
