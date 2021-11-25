@@ -22,6 +22,7 @@ Configurado para o tema de animais, irá chutar 1 palavra por segundo após rece
 - quick tip/report;
 - mostrar ping;
 - mostrar duração de partida;
+- ~~_[lista de todos os jogadores online cadastrados;](https://github.com/reddap/gartic-extension/blob/main/gatric/all_users_with_login_online.js)_~~ 
 - mostrar salas denunciadas.
 
 ## Usagem
