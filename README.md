@@ -1,5 +1,4 @@
-
-
+![Gatric](https://i.ibb.co/rZkdMp4/gatric.png)
 
 # Gatric
 Version for kids of extension created for fun. :)
