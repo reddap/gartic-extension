@@ -26,8 +26,7 @@ Configurado para o tema de animais, irá chutar 1 palavra por segundo após rece
 - mostrar salas denunciadas.
 
 ## Usagem
-
-Pressione **`Ctrl Shift i`**, em seguida, cole o código abaixo no console e dê enter.
+Pressione **<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>i</kbd>**, em seguida, cole o código abaixo no console e dê enter.
 
 ```js
 var script = document.createElement('script');
