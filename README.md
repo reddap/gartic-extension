@@ -1,5 +1,4 @@
 ![Gatric](https://i.ibb.co/rZkdMp4/gatric.png)
-
 ----
 Version for kids of extension created for fun. :)
 
@@ -54,8 +53,7 @@ Para facilitar o processo e evitar a repetição toda vez que for carregar o sit
 ###### Adicionando extensão ao Chrome - Quick Tutorial
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/70059776/143190589-660aa681-49bf-4455-9e6e-cca765f150c2.gif)
-
-
+----
 ###### Sugestões/Pedidos no Discord!
 `padder#7724`
 
