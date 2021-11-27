@@ -1,5 +1,5 @@
 ![Gatric](https://i.ibb.co/rZkdMp4/gatric.png)
-----
+-----
 Version for kids of extension created for fun. :)
 
 - [Introdução](https://github.com/reddap/gartic-extension#introduction)
@@ -7,7 +7,7 @@ Version for kids of extension created for fun. :)
 - [Extensão](https://github.com/reddap/gartic-extension#extens%C3%A3o)
 - [Ajuda](https://github.com/reddap/gartic-extension#sugest%C3%B5espedidos-no-discord)
 
-## Introduction
+## Introduction 
 
 Simples script de dicas para Garlic 🧄, entre outras funções menos interessantes.
 
@@ -53,7 +53,7 @@ Para facilitar o processo e evitar a repetição toda vez que for carregar o sit
 ###### Adicionando extensão ao Chrome - Quick Tutorial
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/70059776/143190589-660aa681-49bf-4455-9e6e-cca765f150c2.gif)
-----
+-----
 ###### Sugestões/Pedidos no Discord!
 `padder#7724`
 
