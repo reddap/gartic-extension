@@ -1,5 +1,4 @@
-//short script using script src
-
+//short script creating script src
 
 var script = document.createElement('script');
     script.type = 'text/javascript';
