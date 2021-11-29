@@ -1,4 +1,7 @@
-![Gatric](https://i.imgur.com/SLCz5IK.png)
+<p align="center">
+  <img src="https://i.imgur.com/SLCz5IK.png" />
+</p>
+
 -----
 Version for kids of extension created for fun. :)
 
