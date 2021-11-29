@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://i.imgur.com/SLCz5IK.png" />
+  <img src="https://i.imgur.com/6DhIvSz.png" />
 </p>
 
 -----
+
 Version for kids of extension created for fun. :)
 
 - [Introdução](https://github.com/reddap/gartic-extension#introduction)
