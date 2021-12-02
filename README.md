@@ -1,6 +1,8 @@
+<a href="https://youtu.be/qNQZiHl13w0">
 <p align="center">
   <img src="https://i.imgur.com/6DhIvSz.png" />
 </p>
+</a>
 
 -----
 
@@ -48,7 +50,7 @@ var script = document.createElement('script');
 ###### YouTube: showing some features
 
 
-<a href="https://youtu.be/00f9OBuyONc">
+<a href="https://youtu.be/qNQZiHl13w0">
 <img src="https://user-images.githubusercontent.com/70059776/144366674-28769d74-3632-4bad-a511-9f599ac0859e.png" width="350" height="200"></img>
 </a>
 
