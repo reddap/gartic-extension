@@ -45,6 +45,12 @@ var script = document.createElement('script');
 
 ![GIF](https://media.discordapp.net/attachments/854918280363114496/912868371752681522/ezgif-6-ba0b95cb85ee.gif)
 
+###### YouTube: showing some features
+
+
+<a href="https://youtu.be/00f9OBuyONc">
+<img src="https://user-images.githubusercontent.com/70059776/144366674-28769d74-3632-4bad-a511-9f599ac0859e.png" width="350" height="200"></img>
+</a>
 
 ## Extensão
 
