@@ -20,8 +20,8 @@ window.addEventListener("mousedown", function(e) {
 
 
 
-//update: adaptado à nova ordem de coordenadas
-
+// update: adaptado à nova ordem de coordenadas
+// 1020 e 606 é o tamanho da tela de desenho
 function eventos(e, x, y) {
 	return new MouseEvent(e, {
 		bubbles: !0,
