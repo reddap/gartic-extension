@@ -8,7 +8,13 @@
 - Não tenho pressa de terminar, pelo motivo acima.
 - Talvez seja útil em sala VET.
 
+
+
 #### Teste em "aranha" modo padrão:
 <img src="https://user-images.githubusercontent.com/70059776/144703522-be2cd1d0-6783-439d-bcea-c767f13fb222.gif"
 height="200" weidth="100"/> <br>
 Como observado acima, ou faz-se em dots, one-line ou adiciono evento "mouseup", que está em falta. 
+
+
+#### Primeiro teste em manipulação de Canvas. :) <br>
+https://reddap.github.io/gartic-extension/auto-draw/canvas.html
