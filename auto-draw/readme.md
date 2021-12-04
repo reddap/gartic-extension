@@ -15,9 +15,6 @@
 height="200" weidth="100"/> <br>
 Como observado acima, ou faz-se em dots, one-line ou adiciono evento "mouseup", que está em falta.
 
-###### Primeiro teste em manipulação de Canvas. :) 
-https://reddap.github.io/gartic-extension/auto-draw/canvas.html
-
 
 
 #### Teste 2 escrevendo "Danieli" (no delay): 
