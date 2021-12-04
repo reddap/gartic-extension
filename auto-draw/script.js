@@ -35,8 +35,7 @@ function eventos(e, x, y) {
 for (var canvas = document.querySelector("canvas"),
      t = canvas.getBoundingClientRect(),
      i = 0; i < c.e.length;)
-	canvas.dispatchEvent(eventos(c.e[i],
-	c.x[i], c.y[i])), i++;
+	canvas.dispatchEvent(eventos(c.e[i], c.x[i], c.y[i])), i++;
 
 
 
