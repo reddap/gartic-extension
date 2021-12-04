@@ -15,11 +15,11 @@
 height="200" weidth="100"/> <br>
 Como observado acima, ou faz-se em dots, one-line ou adiciono evento "mouseup", que está em falta.
 
-###### Primeiro teste em manipulação de Canvas. :) <br>
+###### Primeiro teste em manipulação de Canvas. :) 
 https://reddap.github.io/gartic-extension/auto-draw/canvas.html
 
 
 
-#### Teste 2 escrevendo "Danieli" (no delay):
-![b31fccf3167e73a4eff243f2a17582ef](https://user-images.githubusercontent.com/70059776/144724860-f9446af0-8ea1-44c6-b9cd-46295044b70d.gif)
+#### Teste 2 escrevendo "Danieli" (no delay): 
+![b31fccf3167e73a4eff243f2a17582ef](https://user-images.githubusercontent.com/70059776/144724860-f9446af0-8ea1-44c6-b9cd-46295044b70d.gif) <bR>
 Simplesmente aparece na tela pela falta do delay, porém, nomeando o que cada coordenada precisa fazer, ficou bem melhor. :)!
