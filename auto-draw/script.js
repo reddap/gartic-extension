@@ -21,11 +21,13 @@ window.addEventListener("mousedown", function(e) {
 
 
 // update: adaptado à nova ordem de coordenadas
-// 1020 e 606 é o tamanho da tela de desenho
+// 1020x606 é o tamanho da tela de desenho
+// para não desenhar fora do canvas
+
 function eventos(e, x, y) {
 	return new MouseEvent(e, {
 		bubbles: !0,
-		clientX: x * t.width / 1020 + t.x,
+		clientX: x * t.width / 1020 + t.x, 
 		clientY: y * t.height / 606 + t.y,
 		button: 0
 	})
