@@ -20,7 +20,6 @@ https://reddap.github.io/gartic-extension/auto-draw/canvas.html
 
 
 
-#### Teste 2 escrevendo "B Hi." (no delay):
-
-![HitPawOnline_18935](https://user-images.githubusercontent.com/70059776/144724675-3ddedaaf-e41c-461c-ab82-41f6a02f954c.gif)
+#### Teste 2 escrevendo "Danieli" (no delay):
+![b31fccf3167e73a4eff243f2a17582ef](https://user-images.githubusercontent.com/70059776/144724860-f9446af0-8ea1-44c6-b9cd-46295044b70d.gif)
 Simplesmente aparece na tela pela falta do delay, porém, nomeando o que cada coordenada precisa fazer, ficou bem melhor. :)!
