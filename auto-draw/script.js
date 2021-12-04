@@ -1,4 +1,4 @@
-// get mouse coords https://stackoverflow.com/a/41067865
+// get mouse coords while is mousedown https://stackoverflow.com/a/41067865
 // update: agora pega o nome dos eventos junto às coordenadas.
 
 var c, mouseDown = !1,
