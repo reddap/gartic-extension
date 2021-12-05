@@ -10,7 +10,7 @@ Script que vai desenhar automaticamente, assim como clicar em "desenhar" e detec
 - Não tenho pressa de terminar, pelo motivo acima.
 - Talvez seja útil em sala VET.
 
-### Testando conhecimentos com [MouseEvent](https://developer.mozilla.org/pt-BR/docs/Web/API/MouseEvent)
+### Testando conhecimentos com Eventos do Mouse.
 
 - **em "aranha" padrão:** <br>
 <img src="https://user-images.githubusercontent.com/70059776/144703522-be2cd1d0-6783-439d-bcea-c767f13fb222.gif"
