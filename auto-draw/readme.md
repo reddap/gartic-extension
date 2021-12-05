@@ -12,11 +12,12 @@ Script que vai desenhar automaticamente, assim como clicar em "desenhar" e detec
 
 ### Testando conhecimentos com Eventos do Mouse.
 
-- **em "aranha" padrão:** <br>
+
+- <samp>1.</samp> **em "aranha" padrão:** <br>
 <img src="https://user-images.githubusercontent.com/70059776/144703522-be2cd1d0-6783-439d-bcea-c767f13fb222.gif"
 height="200" weidth="100"/><br>
 > Como observado acima, ou faz-se em dots, one-line ou adiciono evento "mouseup", que está em falta.
 
-- **escrevendo "Danieli" (no delay):** <br>
+- <samp>2.</samp> **escrevendo "Danieli" (no delay):** <br>
 ![b31fccf3167e73a4eff243f2a17582ef](https://user-images.githubusercontent.com/70059776/144724860-f9446af0-8ea1-44c6-b9cd-46295044b70d.gif)<br>
 > Simplesmente aparece na tela pela falta do delay, porém, nomeando o que cada coordenada precisa fazer, ficou bem melhor. :)!
