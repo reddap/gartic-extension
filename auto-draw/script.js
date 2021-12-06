@@ -20,22 +20,26 @@ window.addEventListener("mousedown", function(e) {
 
 
 
-// update: adaptado à nova ordem de coordenadas
-// 1020x606 é o tamanho da tela de desenho
-// para não desenhar fora do canvas
+// update: adaptado à nova ordem de coordenadas.
+// 1020x606 é o tamanho da tela de desenho.
+// it is para desenhar dentro do canvas.
 
 function eventos(e, x, y) {
 	return new MouseEvent(e, {
 		bubbles: !0,
-		clientX: x * t.width / 1020 + t.x, 
+		clientX: x * t.width / 1020 + t.x,
 		clientY: y * t.height / 606 + t.y,
 		button: 0
 	})
 }
-for (var canvas = document.querySelector("canvas"),
-     t = canvas.getBoundingClientRect(),
-     i = 0; i < c.e.length;)
-	canvas.dispatchEvent(eventos(c.e[i], c.x[i], c.y[i])), i++;
+var canvas = document.querySelector("canvas"),
+	t = canvas.getBoundingClientRect();
+for (let i = 0; i < c.e.length; i++) setTimeout(function() {
+	canvas.dispatchEvent(eventos(c.e[i], c.x[i], c.y[i]))
+}, 10 * i);
+
+
+
 
 
 
