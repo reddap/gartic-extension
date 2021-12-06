@@ -13,7 +13,6 @@ window.addEventListener("mousedown", function(e) {
 	x: cordX,
 	y: cordY
 };
-
 function eventos(e, x, y) {
 	return new MouseEvent(e, {
 		bubbles: !0,
@@ -27,6 +26,3 @@ var canvas = document.querySelector("canvas"),
 for (let i = 0; i < c.e.length; i++) setTimeout(function() {
 	canvas.dispatchEvent(eventos(c.e[i], c.x[i], c.y[i]))
 }, 10 * i);
-
-
-
