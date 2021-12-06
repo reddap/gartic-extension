@@ -1,6 +1,3 @@
-// get mouse coords while is mousedown https://stackoverflow.com/a/41067865
-// update: agora pega o nome dos eventos junto às coordenadas.
-
 var c, mouseDown = !1,
 	eventName = [],
 	cordX = [],
@@ -17,13 +14,6 @@ window.addEventListener("mousedown", function(e) {
 	y: cordY
 };
 
-
-
-
-// update: adaptado à nova ordem de coordenadas.
-// 1020x606 é o tamanho da tela de desenho.
-// it is para desenhar dentro do canvas.
-
 function eventos(e, x, y) {
 	return new MouseEvent(e, {
 		bubbles: !0,
@@ -39,14 +29,4 @@ for (let i = 0; i < c.e.length; i++) setTimeout(function() {
 }, 10 * i);
 
 
-
-
-
-
-/*
-♣ detecção de palavras must be diferente;
-♣ me parece que o canvas nao é definido no início;
-♣ lápis; linha; dots. ♀
-♣ como brincar com um canvas contexto 2d em um fonógrafo ♀
-*/
 
