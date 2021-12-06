@@ -1,3 +1,4 @@
+// md
 var c, mouseDown = !1,eventName = [],cordX = [],cordY = [];
 window.addEventListener("mousedown", function(e) {mouseDown = !0, eventName.push(e.type), cordX.push(e.clientX), cordY.push(e.clientY)}),window.addEventListener("mouseup", function(e) {mouseDown = !1, eventName.push(e.type), cordX.push(e.clientX), cordY.push(e.clientY)}),window.addEventListener("mousemove", function(e) {mouseDown && (eventName.push(e.type), cordX.push(e.clientX), cordY.push(e.clientY))
 }), c = {e:eventName,x:cordX,y:cordY};
