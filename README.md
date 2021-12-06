@@ -25,6 +25,7 @@ Configurado para o tema de animais, irá chutar 1 palavra por segundo após rece
 - mudar cores;
 - quick tip/report;
 - mostrar ping;
+- mostrar tempo que ficou no lobby;
 - mostrar duração de partida;
 - ~~*[lista de todos os jogadores online cadastrados;](https://github.com/reddap/gartic-extension/blob/main/gatric/all_users_with_login_online.js)*~~ 
 - mostrar salas denunciadas.
@@ -43,9 +44,15 @@ var script = document.createElement('script');
 
 ![GIF](https://media.discordapp.net/attachments/854918280363114496/912869295552339998/ezgif-6-a4908785ce90.gif)
 
-###### Demonstração
+###### Demonstração TIPs
 
 ![GIF](https://media.discordapp.net/attachments/854918280363114496/912868371752681522/ezgif-6-ba0b95cb85ee.gif)
+
+
+###### Tempo em "Lobby"
+
+![GIF](https://user-images.githubusercontent.com/70059776/144785687-952779f0-709b-4827-aed3-797a31630fa1.gif)
+
 
 ###### YouTube: showing some features
 
