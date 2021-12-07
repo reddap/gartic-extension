@@ -8,7 +8,7 @@ https://www.w3schools.com/tags/canvas_getimagedata.asp
 
 let bgr;
 var colour = 0,
-	color = ["blue", "black", "cyan", "brown", "orange", "pink", "green", "yellow", "red],
+	color = ["blue", "black", "cyan", "brown", "orange", "pink", "green", "yellow", "red"],
 	background = {
 		blue: "0 0 255 255",
 		black: "0 0 0 255",
