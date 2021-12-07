@@ -2,6 +2,8 @@
 "color" são os fundos de desenhos vet em animais.
 aprendido aqui :)
 https://www.w3schools.com/tags/canvas_getimagedata.asp
+
+*precisa-se colocar outras coordenadas
 */
 
 let bgr;
