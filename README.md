@@ -18,7 +18,7 @@ Version for kids of extension created for fun. :)
 
 Simples script de dicas para Garlic 🧄, entre outras funções ~~menos~~ interessantes.
 
-Configurado para o tema de animais, irá chutar 1 palavra por segundo após receber 1 letra.<br> O primeiro chute é imediato.
+Configurado para o tema de animais e alimentos (caso a sala contenha o nome destes), irá chutar 1 palavra por segundo após receber 1 letra.<br> O primeiro chute é imediato.
 
 ###### Todas as funcionalidades:
 - acertar automaticamente palavras com dica;
