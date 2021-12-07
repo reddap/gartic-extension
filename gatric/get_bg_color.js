@@ -1,8 +1,12 @@
-// "color" de desenhos vet em animais.
+/*
+"color" são os fundos de desenhos vet em animais.
+aprendido aqui :)
+https://www.w3schools.com/tags/canvas_getimagedata.asp
+*/
 
 let bgr;
 var colour = 0,
-	color = ["blue", "black", "cyan", "brown", "orange", "pink", "green", "yellow"],
+	color = ["blue", "black", "cyan", "brown", "orange", "pink", "green", "yellow", "red],
 	background = {
 		blue: "0 0 255 255",
 		black: "0 0 0 255",
@@ -11,11 +15,12 @@ var colour = 0,
 		orange: "255 127 0 255",
 		pink: "255 0 147 255",
 		green: "0 140 0 255",
-		yellow: "255 255 0 255"
+		yellow: "255 255 0 255",
+		red: "255 0 0 0"
 	};
 setInterval(() => {
-	var e = document.querySelector("canvas"),
-		a = e.getContext("2d").getImageData(0, 0, e.width, e.height);
+	var canvas = document.querySelector("canvas"),
+		a = canvas.getContext("2d").getImageData(0, 0, canvas.width, canvas.height);
 	red = a.data[0],
   green = a.data[1],
   blue = a.data[2],
