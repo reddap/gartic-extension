@@ -28,6 +28,7 @@ Configurado para o tema de animais e alimentos (caso a sala contenha o nome dest
 - mostrar ping;
 - mostrar tempo que ficou no lobby;
 - mostrar duração de partida;
+- ~~*[detectar cor de fundo (vet assistant)](https://github.com/reddap/gartic-extension/blob/main/gatric/get_bg_color.js)*~~ 
 - ~~*[auto-draw;](https://github.com/reddap/gartic-extension/tree/main/auto-draw)*~~ 
 - ~~*[lista de todos os jogadores online cadastrados;](https://github.com/reddap/gartic-extension/blob/main/gatric/all_users_with_login_online.js)*~~ 
 - mostrar salas denunciadas.
