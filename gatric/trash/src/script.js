@@ -1,5 +1,6 @@
 /*
 Change log:
+	*corrigir index
 	v1.8
 	- added: detector de cor de fundo (vets assistant).
 	v1.7
