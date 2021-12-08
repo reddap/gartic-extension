@@ -56,6 +56,10 @@ var script = document.createElement('script');
 
 ![GIF](https://user-images.githubusercontent.com/70059776/144785687-952779f0-709b-4827-aed3-797a31630fa1.gif)
 
+###### Vet Asistant (para cor de fundo)
+
+![GIF](https://user-images.githubusercontent.com/70059776/145179408-0f03a5ff-9a22-486d-b5b0-c6c146b50d83.gif)
+
 
 ###### YouTube: showing some features
 
