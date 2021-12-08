@@ -10,8 +10,8 @@
 Version for kids of extension created for fun. :)
 
 - [Introdução](https://github.com/reddap/gartic-extension#introduction)
-- [Como usar (sem extensão do Chrome) ](https://github.com/reddap/gartic-extension#usagem)
 - [Demonstração](https://github.com/reddap/gartic-extension#demonstra%C3%A7%C3%A3o-tips)
+- [Como usar (sem extensão do Chrome) ](https://github.com/reddap/gartic-extension#usagem)
 - [Como instalar a Extensão](https://github.com/reddap/gartic-extension#extens%C3%A3o)
 - [Ajuda](https://github.com/reddap/gartic-extension#sugest%C3%B5espedidos-no-discord)
 
