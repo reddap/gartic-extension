@@ -59,8 +59,7 @@ var script = document.createElement('script');
 
 ###### Desenhos VET Assistant (para cor de fundo em animais)
 
-
-<img src="https://user-images.githubusercontent.com/70059776/145179408-0f03a5ff-9a22-486d-b5b0-c6c146b50d83.gif" width="300" height="200"></img>
+<img src="https://user-images.githubusercontent.com/70059776/145365905-067831fe-3068-4b26-8b31-93060c926ab9.gif" width="300" height="200"></img>
 
 ###### YouTube: showing some features
 
