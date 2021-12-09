@@ -1,10 +1,11 @@
 /*
 Change log:
+	- algumas funões desabilitadas por problemas na tradução.
 	v1.8.1
-	- bug added: "VETs" chama o primeiro item do ultimo background.
-	- tips e vets agora podem ser usados ao mesmo tempo
+	- bug added: "VETs" chama o primeiro item do ultimo background;
+	- tips e vets agora podem ser usados ao mesmo tempo;
 	- fixed: index, function b(), clearInterval(id), lista(), getContext;
-	- not fixed: addEventListener;
+	- not fixed: addEventListener.
 	v1.8
 	- added: detector de cor de fundo (vets assistant).
 	v1.7
