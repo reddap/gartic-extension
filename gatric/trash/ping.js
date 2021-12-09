@@ -1,7 +1,7 @@
 "use strict";
 async function ping() {
 	let t = Date.now();
-	await fetch("https://gartic.com.br/");
+	await fetch(window.location.href);
 	return `${Date.now()-t}ms`
 }
 setInterval(() => {
