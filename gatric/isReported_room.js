@@ -17,8 +17,9 @@ function report() {
   }
 }
 i.style.width = "0", i.style.height = "0", i.src = "https://gartic.com.br/", document.body.appendChild(i);
-var it = 0;
+var it;
 function salacolor() {
+  it=0;
   report();
   for (; it < reported.length;) {
     if (document.title.includes(reported[it])) {
