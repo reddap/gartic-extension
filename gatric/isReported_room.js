@@ -1,8 +1,9 @@
 /*
-14: mostra salas denunciadas dentro de uma sala utilizando elemento iframe
-26: o fundo da sala vai mudar de cor caso esta sala denunciada
-31: verificando a cada 5 segundos
+15: mostra salas denunciadas dentro de uma sala utilizando elemento iframe
+27: o fundo da sala vai mudar de cor caso esta sala denunciada
+32: verificando a cada 5 segundos
 */
+
 var valor;
 var reported;
 var i = document.createElement("iframe");
