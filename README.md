@@ -57,25 +57,25 @@ var script = document.createElement('script');
 ![GIF](https://media.discordapp.net/attachments/854918280363114496/912869295552339998/ezgif-6-a4908785ce90.gif)
 <br>*Funções estarão ativas enquanto a caixa estiver marcada.<br>
 Caso "is AFK" estiver marcada, a conta não sairá da sala por ausência.*
-
+<br>
 
 
 ##### Script para dicas (TIPs)
 ![GIF](https://media.discordapp.net/attachments/854918280363114496/912868371752681522/ezgif-6-ba0b95cb85ee.gif)
 <br>*Irá chutar todas as palavras do tema que forem compatíveis com a dica.*
-
+<br>
 
 
 ##### Tempo em "Lobby"
 ![GIF](https://user-images.githubusercontent.com/70059776/144785687-952779f0-709b-4827-aed3-797a31630fa1.gif)
 <br>*Mostra o tempo que parmaneceu no "lobby". Será útil para saber quanto tempo falta para mudar de sala.*
-
+<br>
 
 
 ##### VETs Assistant (beta)
 <img src="https://user-images.githubusercontent.com/70059776/145365905-067831fe-3068-4b26-8b31-93060c926ab9.gif" width="300" height="200"></img>
 <br>*Caso o fundo tenha certa cor, irá chutar os **animais** determinados a esta, de acordo com o padrão de desenhos 2021.*
-
+<br>
 
 
 ###### YouTube: showing some features
