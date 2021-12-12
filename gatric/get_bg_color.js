@@ -18,7 +18,7 @@ var colour = 0,
 		pink: "255 0 147 255",
 		green: "0 140 0 255",
 		yellow: "255 255 0 255",
-		red: "255 0 0 0"
+		red: "255 0 0 255"
 	};
 setInterval(() => {
 	var canvas = document.querySelector("canvas"),
@@ -31,3 +31,21 @@ setInterval(() => {
   (bgr = Object.getOwnPropertyNames(background)[colour]), ++colour > color.length &&
   (colour = 0)
 }, 100);
+
+
+/*
+
+// contém apenas os mais comuns (iniciais), já que, como seria uma sala vet, poderia atrasar caso for 5+ chutes.
+// nesta ordem
+
+	blue: ["corais", "arraia", "enguia"],
+	black: ["ovelha", "carneiro", "vaga-lume", "cordeiro", "rebanho"],
+	cyan: ["gaivota", "andorinha", "albatroz"],
+	brown: ["minhoca"],
+	orange: ["tigre", "tigre de bengala"],
+	pink: ["pantera"],
+	green: ["quero-quero"],
+	yellow: ["onça", "leopardo", "guepardo", "jaguatirica", "leopardo-das-neves"],
+	red: ["camaleão"]
+
+*/
