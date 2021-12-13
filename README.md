@@ -98,4 +98,4 @@ Para facilitar o processo e evitar a repetição toda vez que for carregar o sit
 
 -----
 ###### Sugestões/Pedidos no Discord!
-`padder#7724`
+`padder#7724 || Deusa#5150`
