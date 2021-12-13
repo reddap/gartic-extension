@@ -15,6 +15,9 @@ setInterval(() => {
 	})
 }, 3e3);
 
+setTimeout(()=>{
+	document.querySelector('#tema > input.isAfk').checked = true
+},1e4)
 
 // [bagunça abaixo]
 
