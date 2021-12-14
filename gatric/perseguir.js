@@ -1,7 +1,4 @@
-var persist = document.querySelector("#nick");
-  persist.value = "",
-  persist.disabled = !1,
-  persist.placeholder = "Quem seguir? [enter]",
+var persist = document.querySelector("#seguir");
   persist.addEventListener("keydown", e => {
 	13 == e.keyCode && 0 !== persist.value.length &&
     (persist.disabled = !0,
