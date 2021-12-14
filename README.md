@@ -34,6 +34,7 @@ Configurado para o tema de animais e alimentos (caso a sala contenha o nome dest
 - quick tip/report;
 - mostrar ping;
 - mostrar tempo que ficou no lobby;
+- perseguir determinado usuário;
 - mostrar duração de partida;
 - detectar cores para auxiliar VETs;
 - ~~*[auto-draw;](https://github.com/reddap/gartic-extension/tree/main/auto-draw)*~~ _(em desenvolvimento)_
