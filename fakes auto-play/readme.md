@@ -1,3 +1,4 @@
+*Falta organizar readme.md
 ## Fakes Assistant/Bot de roubo
 
 #### Usagem
