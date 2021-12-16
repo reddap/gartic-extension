@@ -1,4 +1,4 @@
-## Fakes Assistant/Bots de roubo
+## Fakes Assistant/Bot de roubo
 
 #### Usagem
 - Você precisará colocar 5~10 contas na mesma sala com a extensão.
