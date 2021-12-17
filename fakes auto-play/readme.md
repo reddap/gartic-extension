@@ -3,8 +3,11 @@
 
 ### About
 Guiando-se por comandos via chat, esta opção irá facilitar o jogo de quem gosta de "roubar" pontos/vitórias/rank.<br>
-Todas as palavras do tema **animais** serão traduzidos para outros caracteres que serão enviados para o chat.<br>
-Terá partidas de 2:30~03:00 minutos. Testando, eu fiz 15k pontos e 110 vitórias em 5 horas. (+/- 2,700+ pontos por hora)<br>
+Todas as palavras do tema **animais** serão traduzidas para outros caracteres que serão enviados para o chat.<br>
+
+Terá partidas de 2:30~03:00 minutos; 2,700+ pontos por hora.<br>
+Testando, eu fiz 15k pontos e 110 vitórias em 5 horas.
+
 \*Evite exagero e banimento!
 <br>
 <br>
