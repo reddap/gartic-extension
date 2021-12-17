@@ -1,5 +1,5 @@
 *Falta organizar readme.md
-## Fakes Assistant
+# Fakes Assistant
 
 ### About
 Guiando-se por comandos via chat, esta opção irá facilitar o jogo de quem gosta de "roubar" pontos/vitórias/rank.<br>
