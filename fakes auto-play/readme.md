@@ -23,11 +23,11 @@ Verifique: **[a partida mais rápida do gartic](https://youtu.be/lgA8M7iCRqQ)** 
 
 | Comandos | Utilidade |
 | :---: | :---: |
-| hill | Ativar o modo bot. Aparecerá a caixa ***'secreta!'*** para ativar/desativar os comandos a seguir. _(owner only)_ |
-| own | Determinar-te como conta principal. Irá acertar antes de outros bots. _(owner only)_|
-| padder| Ativar todos os bots. Marcará a caixa de todas as contas que tiverem enviado o comando "hill" |
-| fvk| Desativar todos os bots. Desmarcará esta caixa. |
-| by!| Tirar todos os bots da sala. Todos os bots **ativos** sairão da sala em até 2 segundos. |
+| hill | Ativar o modo bot: aparecerá a caixa ***'secreta!'*** para ativar/desativar os comandos a seguir. _(owner only)_ |
+| own | Determinar-te como conta principal: irá acertar antes de outros bots. _(owner only)_|
+| padder| Ativar todos os bots: marcará a caixa de todas as contas que tiverem enviado o comando "hill" |
+| fvk| Desativar todos os bots: desmarcará esta caixa. |
+| by!| Tirar todos os bots da sala: todos os bots **ativos** sairão da sala em até 2 segundos. |
 <br>
 Para seguwança dos utilizadores: "owner only" significa que não será ativa caso outra pessoa envie o comando no chat.<br>
 Outros comandos só funcionarão caso a própria utilizadora envie o comando "hill".<br>
