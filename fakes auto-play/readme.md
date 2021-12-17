@@ -1,5 +1,17 @@
 *Falta organizar readme.md
-## Fakes Assistant/Bot de roubo
+## Fakes Assistant
+
+#### About
+Guiando-se por comandos via chat, esta opção irá facilitar o jogo de quem gosta de "roubar" pontos/vitórias/rank.<br>
+Todas as palavras do tema **animais** serão traduzidos para outros caracteres que serão enviados para o chat.<br>
+Terá partidas de 2:30~03:00 minutos. Testando, eu fiz 15k pontos e 110 vitórias em 5 horas. (+/- 2,700+ pontos por hora)<br>
+\*Evite exagero e banimento!
+<br>
+<br>
+Verifique: **[a partida mais rápida do gartic](https://youtu.be/lgA8M7iCRqQ)** no YouTube.
+<br>
+
+
 
 #### Usagem
 - Você precisará colocar 5~10 contas na mesma sala com a extensão.
@@ -22,12 +34,3 @@ Parece discreto, mesmo que não seja tanto. :)
 <br>
 <br>
 
-#### About
-Guiando-se por comandos via chat, esta opção irá facilitar o jogo de quem gosta de "roubar" pontos/vitórias/rank.<br>
-Todas as palavras do tema **animais** serão traduzidos para outros caracteres que serão enviados para o chat.<br>
-Terá partidas de 2:30~03:00 minutos. Testando, eu fiz 15k pontos e 110 vitórias em 5 horas. (+/- 2,700+ pontos por hora)<br>
-\*Evite exagero e banimento!
-<br>
-<br>
-Verifique: **[a partida mais rápida do gartic](https://youtu.be/lgA8M7iCRqQ)** no YouTube.
-<br>
