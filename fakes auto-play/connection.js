@@ -1,3 +1,4 @@
+var owner = document.querySelector('.user.proprio').querySelector('span').textContent
 var bots;
 function createUsers() {
 	var i = 0;
