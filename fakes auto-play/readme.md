@@ -1,4 +1,3 @@
-*Falta organizar readme.md
 # Fakes Assistant
 
 ### About
@@ -8,13 +7,10 @@ Todas as palavras do tema **animais** serão traduzidas para outros caracteres q
 Terá partidas de 2:30~03:00 minutos; 2,700+ pontos por hora.<br>
 Testando, eu fiz 15k pontos e 110 vitórias em 5 horas.
 
-\*Evite exagero e banimento!
 <br>
 <br>
 Verifique: **[a partida mais rápida do gartic](https://youtu.be/lgA8M7iCRqQ)** no YouTube.
 <br>
-
-
 
 ### Usagem
 - Você precisará colocar 5~10 contas na mesma sala com a extensão.
@@ -36,4 +32,6 @@ Outros comandos só funcionarão caso a própria utilizadora envie o comando "hi
 Parece discreto, mesmo que não seja tanto. :)
 <br>
 <br>
+
+![image](https://user-images.githubusercontent.com/70059776/146672801-c1766d3f-a458-4973-b04f-7ce7d73c9f07.png)
 
