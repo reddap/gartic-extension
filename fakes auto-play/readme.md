@@ -9,7 +9,9 @@ Testando, eu fiz 15k pontos e 110 vitórias em 5 horas.
 
 <br>
 <br>
+
 Verifique: **[a partida mais rápida do gartic](https://youtu.be/lgA8M7iCRqQ)** no YouTube.
+
 <br>
 
 ### Usagem
