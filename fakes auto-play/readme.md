@@ -15,6 +15,18 @@ Verifique: **[a partida mais rápida do gartic](https://youtu.be/lgA8M7iCRqQ)** 
 <br>
 
 ### Usagem
+*Enquanto não for adaptado para extensão
+
+<br>
+```js
+var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://reddap.github.io/gartic-extension/fakes%20auto-play/temptrash.js';
+    document.body.appendChild(script);
+```
+
+<br>
+<br>
 - Você precisará colocar 5~10 contas na mesma sala com a extensão.
 - Ative esta função ao enviar "hill" no chat. Assim como deverá ser feita com cada fake utilizada.
 - Após isso, utilize os comandos quando for preciso.
