@@ -6,13 +6,10 @@ Todas as palavras do tema **animais** serão traduzidas para outros caracteres q
 
 Terá partidas de 2:30~03:00 minutos; 2,700+ pontos por hora.<br>
 Testando, eu fiz 15k pontos e 110 vitórias em 5 horas.
-
-<br>
 <br>
 
 Verifique: **[a partida mais rápida do gartic](https://youtu.be/lgA8M7iCRqQ)** no YouTube.
 
-<br>
 
 ### Usagem
 
