@@ -25,7 +25,7 @@ var script = document.createElement('script');
 ```
 
 <br>
-<br>
+
 - Você precisará colocar 5~10 contas na mesma sala com a extensão.
 - Ative esta função ao enviar "hill" no chat. Assim como deverá ser feita com cada fake utilizada.
 - Após isso, utilize os comandos quando for preciso.
