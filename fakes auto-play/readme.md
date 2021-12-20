@@ -15,9 +15,11 @@ Verifique: **[a partida mais rápida do gartic](https://youtu.be/lgA8M7iCRqQ)** 
 <br>
 
 ### Usagem
+
 *Enquanto não for adaptado para extensão
 
 <br>
+
 ```js
 var script = document.createElement('script');
     script.type = 'text/javascript';
