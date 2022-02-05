@@ -21,10 +21,11 @@ Version for kids of extension created for fun. :)
 **[Gatric v1.8.4](https://cdn.discordapp.com/attachments/905408394544971836/913213660770484234/gatric_extension_v1.0.rar)**
 
 ## Introduction 
+
+
 Simples script de dicas para Garlic 🧄, entre outras funções ~~menos~~ interessantes.
 
 Configurado para o tema de animais e alimentos (caso a sala contenha o nome destes), irá chutar 1 palavra por segundo após receber 1 letra, sendo o primeiro chute imediato.
-
 
 
 ###### Todas as funcionalidades:
@@ -40,8 +41,10 @@ Configurado para o tema de animais e alimentos (caso a sala contenha o nome dest
 - ~~*[auto-draw;](https://github.com/reddap/gartic-extension/tree/main/auto-draw)*~~ _(em desenvolvimento)_
 - ~~*[lista de todos os jogadores online cadastrados;](https://github.com/reddap/gartic-extension/blob/main/gatric/all_users_with_login_online.js)*~~ _(removido)_
 - mostrar salas denunciadas;
-- **[mostrar recados ocultos.](https://github.com/reddap/gartic-extension/blob/main/gatric/iSeeYourRecados.js)** _(adaptando)_
+- **[mostrar recados ocultos.](https://github.com/reddap/gartic-extension/blob/main/gatric/iSeeYourRecados.js)** _(adaptando whitelist //disponível apenas para o perfil "administracao")_
 
+<br>
+<br>
 
 
 ## Usagem
@@ -109,5 +112,6 @@ Para facilitar o processo e evitar a repetição toda vez que for carregar o sit
 > Contém os arquivos na pasta [extension-for-chrome](https://github.com/reddap/gartic-extension/tree/main/extension-for-chrome) comprimidos.
 
 -----
+
 ###### Sugestões/Pedidos no Discord!
 `padder#7724 || Deusa#5150`
