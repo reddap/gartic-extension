@@ -83,6 +83,8 @@ Caso "is AFK" estiver marcada, a conta não sairá da sala por ausência.*
 #### Recados ocultos (administracao)
 <img src="https://user-images.githubusercontent.com/70059776/152645899-c65ac090-500e-4386-b17c-25ce5f4e1f8c.png" width="570" height="390"></img>
 <br>
+![image](https://user-images.githubusercontent.com/70059776/152647593-a9300690-9f86-4ba2-aefb-9d6596c5cda1.png)
+:o!!
 <br>
 
 ###### YouTube: showing some features
