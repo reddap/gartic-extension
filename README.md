@@ -39,7 +39,8 @@ Configurado para o tema de animais e alimentos (caso a sala contenha o nome dest
 - detectar cores para auxiliar VETs;
 - ~~*[auto-draw;](https://github.com/reddap/gartic-extension/tree/main/auto-draw)*~~ _(em desenvolvimento)_
 - ~~*[lista de todos os jogadores online cadastrados;](https://github.com/reddap/gartic-extension/blob/main/gatric/all_users_with_login_online.js)*~~ _(removido)_
-- mostrar salas denunciadas.
+- mostrar salas denunciadas;
+- [mostrar recados ocultados.](https://github.com/reddap/gartic-extension/blob/main/gatric/iSeeYourRecados.js) _(adaptando)_
 
 
 
@@ -78,6 +79,9 @@ Caso "is AFK" estiver marcada, a conta não sairá da sala por ausência.*
 <br>*Caso o fundo tenha certa cor, irá chutar os **animais** determinados a esta, de acordo com o padrão de desenhos 2021.*
 <br>
 <br>
+
+#### Recados ocultos (administracao)
+![IMG](https://user-images.githubusercontent.com/70059776/152645899-c65ac090-500e-4386-b17c-25ce5f4e1f8c.png)
 
 ###### YouTube: showing some features
 <a href="https://youtu.be/qNQZiHl13w0">
