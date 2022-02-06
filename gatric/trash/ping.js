@@ -2,10 +2,7 @@ var script = document.createElement('script');
 script.type = 'text/javascript';
 script.src = 'https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js';
 document.body.appendChild(script);
-var script = document.createElement('script');
-script.type = 'text/javascript';
-script.src = '/gatric/antiDiscards.js';
-document.body.appendChild(script);
+
 
 "use strict";
 async function ping() {
@@ -20,9 +17,12 @@ setInterval(() => {
 	})
 }, 3e3);
 
-setTimeout(()=>{
+
+setTimeout(()=>
+	   if(document.URL.startsWith('https://gartic.com.br/0')){
 	document.querySelector('#tema > input.isAfk').checked = true
-},1e4)
+}
+},1000)
 
 // [bagunça abaixo]
 
