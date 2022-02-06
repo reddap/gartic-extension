@@ -18,7 +18,7 @@ setInterval(() => {
 }, 3e3);
 
 
-setTimeout(()=>
+setTimeout(()=>{
 	   if(document.URL.startsWith('https://gartic.com.br/0')){
 	document.querySelector('#tema > input.isAfk').checked = true
 }
