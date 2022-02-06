@@ -18,7 +18,7 @@ Version for kids of extension created for fun. :)
 - [Ajuda](https://github.com/reddap/gartic-extension#sugest%C3%B5espedidos-no-discord)
 <br>
 
-**[Gatric v1.8.4](https://cdn.discordapp.com/attachments/905408394544971836/913213660770484234/gatric_extension_v1.0.rar)**
+**[Download Gatric v1.8.4](https://cdn.discordapp.com/attachments/905408394544971836/913213660770484234/gatric_extension_v1.0.rar)**
 
 ## Introduction 
 
