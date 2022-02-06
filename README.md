@@ -7,7 +7,7 @@
 -----
 
 
-Version for kids of extension created for fun. :)
+#### <p align="center"> Version for kids of a extension created for fun. :) </p>
 
 
 **[Download Gatric v1.8.7](https://github.com/reddap/gartic-extension/releases/download/1.8.7/Gatric.1.8.7.rar)**  **_(última versão)_**
