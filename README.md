@@ -44,8 +44,10 @@ Configurado para o tema de animais e alimentos (caso a sala contenha o nome dest
 - **[mostrar recados ocultos.](https://github.com/reddap/gartic-extension/blob/main/gatric/iSeeYourRecados.js)** _(adaptando whitelist //disponível apenas para o perfil "administracao")_
 
 <br>
-<br>
 
+**As funções fora de sala de jogo funcionarão melhor/somente com a extensão instalada no navegador. (sala reportada, perseguir, lobby time, abrir recado)*
+
+<br>
 
 ## Usagem
 Pressione **<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>i</kbd>**, em seguida, cole o código abaixo no console e dê enter.
