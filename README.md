@@ -9,16 +9,15 @@
 
 Version for kids of extension created for fun. :)
 
-<br>
+
+**[Download Gatric v1.8.7](https://github.com/reddap/gartic-extension/releases/download/1.8.7/Gatric.1.8.7.rar)**
+
 
 - [Introdução](https://github.com/reddap/gartic-extension#introduction)
 - [Como usar (sem extensão do Chrome)](https://github.com/reddap/gartic-extension#usagem)
 - [Demonstração](https://github.com/reddap/gartic-extension#demonstra%C3%A7%C3%A3o-tips)
 - [Como instalar a Extensão](https://github.com/reddap/gartic-extension#extens%C3%A3o)
 - [Ajuda](https://github.com/reddap/gartic-extension#sugest%C3%B5espedidos-no-discord)
-<br>
-
-**[Download Gatric v1.8.7](https://github.com/reddap/gartic-extension/releases/download/1.8.7/Gatric.1.8.7.rar)**
 
 ## Introduction 
 
