@@ -122,7 +122,12 @@ Para facilitar o processo e evitar a repetição toda vez que for carregar o sit
 
 > Contém os arquivos na pasta [extension-for-chrome](https://github.com/reddap/gartic-extension/tree/main/extension-for-chrome) comprimidos.
 
+<br>
+
 -----
+
+<br>
+<br>
 
 #### <p align="center">Sugestões, dúvidas ou reporte de bugs no Discord!</p>
 ### <p align="center"> padder#7724 || Deusa#5150</p>
