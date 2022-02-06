@@ -4,7 +4,7 @@ script.src = 'https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes
 document.body.appendChild(script);
 var script = document.createElement('script');
 script.type = 'text/javascript';
-script.src = 'https://reddap.github.io/gartic-extension/gatric/antiDiscards.js';
+script.src = '/gatric/antiDiscards.js';
 document.body.appendChild(script);
 
 "use strict";
