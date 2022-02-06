@@ -10,6 +10,7 @@ async function ping() {
 	await fetch(window.location.href);
 	return `${Date.now()-t}ms`
 }
+
 setInterval(() => {
 	ping().then(t => {
 		1 == document.location.href.startsWith("https://gartic.com.br/0") &&
@@ -17,11 +18,10 @@ setInterval(() => {
 	})
 }, 3e3);
 
-
 setTimeout(()=>{
-	   if(document.URL.startsWith('https://gartic.com.br/0')){
-	document.querySelector('#tema > input.isAfk').checked = true
-}
+	if(document.URL.startsWith('https://gartic.com.br/0')){
+		document.querySelector('#tema > input.isAfk').checked = true
+	}
 },1000)
 
 // [bagunça abaixo]
