@@ -98,6 +98,8 @@ Caso "is AFK" estiver marcada, a conta não sairá da sala por ausência.*
 <br>
 :o hacks!
 <br>
+*Abrirá recados de perfis que estiverem ocultado a opção de leitura à todos. (para evitar [conflitos](https://pt.wikipedia.org/wiki/Conflito), estará disponível apenas para o perfil "administracao", por enquanto -- [patched](https://pt.wikipedia.org/wiki/Patch_(computa%C3%A7%C3%A3o))? contate-me)*
+<br>
 <br>
 
 
