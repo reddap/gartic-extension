@@ -116,7 +116,7 @@ Caso "is AFK" estiver marcada, a conta não sairá da sala por ausência.*
 Para facilitar o processo e evitar a repetição toda vez que for carregar o site, siga estes passos:
 
 - [ ] Faça download do arquivo extension.rar<br>
-<ins>**[Download extension.rar](https://cdn.discordapp.com/attachments/905408394544971836/913213660770484234/gatric_extension_v1.0.rar)**</ins>
+<ins>**[Download extension.rar](https://github.com/reddap/gartic-extension/releases/download/1.8.7/Gatric.1.8.7.rar)**</ins>
 
 - [ ] Adicionando esta extensão ao Chrome<br>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/70059776/143190589-660aa681-49bf-4455-9e6e-cca765f150c2.gif)
