@@ -124,5 +124,5 @@ Para facilitar o processo e evitar a repetição toda vez que for carregar o sit
 
 -----
 
-###### Reporte de bugs ou sugestões no Discord!
-`padder#7724 || Deusa#5150`
+##### <p align="center">Sugestões, dúvidas ou reporte de bugs no Discord!</p>
+### <p align="center"> padder#7724 || Deusa#5150</p>
