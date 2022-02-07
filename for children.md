@@ -33,6 +33,6 @@ Após isso, digira-se à parte **Console** e cole o código copiado.
 <br>
 Aperte **Enter** e está feito.
 
-### Aprendeste? Agora vamos ver como fica dentro de uma sala, minha criança,
+### Aprendeste? Agora vamos ver como fica dentro de uma sala, minha criança.
 
 // ativando durante a gameplay em falta.gif
