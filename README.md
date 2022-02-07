@@ -91,7 +91,7 @@ Caso "is AFK" estiver marcada, a conta não sairá da sala por ausência.*
 <br>
 <br>
 
-#### Entrar em conta deletada (**Necessita ações antes da exclusão, logo não irá logar em contas deletadas a muito tempo*)
+#### Entrar em conta deletada (**necessita ações antes da exclusão, logo não irá logar em contas deletadas a muito tempo*)
 
 ![GIF](https://user-images.githubusercontent.com/70059776/152722202-5c3721f0-8dfa-4a6c-9cb2-1d4cc4bd6886.gif) <br>
 <br>
