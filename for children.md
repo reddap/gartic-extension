@@ -1,5 +1,5 @@
 
-//Explico para uma criança de 5 anos como se hackeia a internet 😎
+// Explico para uma criança de 5 anos como se hackeia a internet 😎
 
 - [O que é DevTools?](https://github.com/reddap/gartic-extension/new/main#resumo-sobre-como-funciona-o-chamado-f12-inspecionar-elemento-ou-devtools-de-seu-navegador)
 - [Como e onde "copiar e colar"](https://github.com/reddap/gartic-extension/new/main#como-copiar-e-colar-o-script-no-console)
