@@ -58,6 +58,9 @@ var script = document.createElement('script');
     script.src = 'https://reddap.github.io/gartic-extension/gatric/trash/src/script.js';
     document.body.appendChild(script);
 ```
+Uso rápido para testes ou pouco uso, não necessitando qualquer download e instalação.<br>
+Alguma dúvida sobre o tutorial acima, acesse mais explicado em "[para_leigos.md](https://github.com/reddap/gartic-extension/blob/main/para_leigos.md)".
+<br>
 <br>
 
 ##### Ativar/Desativar
