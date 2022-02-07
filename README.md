@@ -8,7 +8,7 @@
 
 
 #### <p align="center"> Version for kids of a extension created for fun. :) </p>
-<br>
+
 
 ### **[Download Gatric v1.8.7](https://github.com/reddap/gartic-extension/releases/download/1.8.7/Gatric.1.8.7.rar)**  **_(última versão)_**
 <br>
@@ -27,7 +27,7 @@ Simples script de dicas para Garlic 🧄, entre outras funções ~~menos~~ inter
 Configurado para o tema de animais e alimentos (caso a sala contenha o nome destes), irá chutar 1 palavra por segundo após receber 1 letra, sendo o primeiro chute imediato.
 
 
-#### Todas as funcionalidades:
+##### Todas as funcionalidades:
 - acertar automaticamente palavras com dica;
 - não desconectar-se da sala por ausência;
 - mudar cores;
