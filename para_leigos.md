@@ -24,7 +24,7 @@ E para que fazer se 99% das coisas já foram feitas bastando-lhe copiar e colar 
 
 Para copiar o script, simplesmente aperte o botão que irá aparecer ao passar o cursor por cima do código.
 
-![image](https://user-images.githubusercontent.com/70059776/152791799-2e724e66-32aa-4198-b6ae-c3d21cb70c2b.png)
+![image](https://user-images.githubusercontent.com/70059776/152793386-ed95df9a-b33b-46e7-84b1-57988c909ae2.png)
 <br>
 <br>
 Após isso, digira-se à parte **Console** e cole o código copiado.
