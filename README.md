@@ -137,4 +137,4 @@ Para facilitar o processo e evitar a repetição toda vez que for carregar o sit
 <br>
 
 #### <p align="center">Sugestões, dúvidas ou reporte de bugs no Discord!</p>
-### <p align="center"> padder#7724 || [Discord Random Server](https://discord.gg/GzfbAnRb?event=940018648326733844)</p>
+### <p align="center"> padder#7724 </p>
