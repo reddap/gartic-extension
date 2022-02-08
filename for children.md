@@ -36,3 +36,8 @@ Aperte **Enter** e está feito.
 ### Aprendeste? Agora vamos ver como fica dentro de uma sala, minha criança.
 
 // ativando durante a gameplay em falta.gif
+
+### Ainda não entendeu? Sinta-se livre para tirar qualquer tipo de dúvida no Discord.
+
+![image](https://user-images.githubusercontent.com/70059776/152893969-97967ffa-95ed-4dee-a951-c5440ce0a19a.png)
+
