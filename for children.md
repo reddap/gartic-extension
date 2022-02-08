@@ -33,6 +33,11 @@ Após isso, digira-se à parte **Console** e cole o código copiado.
 <br>
 Aperte **Enter** e está feito.
 
+**Alguns detalhes adicionais:**
+O DevTools deverá ser aberto na página em que deseja inserir o script.<br>
+Ao recarregar ou fechar o website, terá que fazer o mesmo processo.<br>
+Para uso contínuo, instale esta extensão em seu navegador.<br>
+
 ### Aprendeste? Agora vamos ver como fica dentro de uma sala, minha criança.
 
 // ativando durante a gameplay em falta.gif
