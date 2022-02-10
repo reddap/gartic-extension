@@ -43,7 +43,7 @@ Configurado para o tema de animais e alimentos (caso a sala contenha o nome dest
 - ~~*[lista de todos os jogadores online cadastrados;](https://github.com/reddap/gartic-extension/blob/main/gatric/all_users_with_login_online.js)*~~ _(removido)_
 - mostrar salas denunciadas;
 - [entrar em conta deletada;](https://user-images.githubusercontent.com/70059776/152722202-5c3721f0-8dfa-4a6c-9cb2-1d4cc4bd6886.gif) _(em desenvolvimento)_
-- [mostrar recados ocultos.](https://github.com/reddap/gartic-extension/blob/main/gatric/iSeeYourRecados.js) _(adaptando)_
+- ~~[mostrar recados ocultos.](https://github.com/reddap/gartic-extension/blob/main/gatric/iSeeYourRecados.js)~~ _(patched)_
 
 <br>
 
