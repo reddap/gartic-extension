@@ -4,6 +4,8 @@
 </p>
 </a>
 
+[![Github All Releases](https://img.shields.io/github/downloads/reddap/gartic-extension/total.svg)]()
+
 -----
 
 
