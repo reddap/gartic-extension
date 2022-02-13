@@ -26,7 +26,7 @@
 
 Simples script de dicas para Garlic 🧄, entre outras funções ~~menos~~ interessantes.
 
-Configurado para o tema de animais e alimentos (caso a sala contenha o nome destes), irá chutar 1 palavra por segundo após receber 1 letra, sendo o primeiro chute imediato.
+Configurado para o tema de animais, alimentos e objetos (caso a sala contenha o nome destes), irá chutar 1 palavra por segundo após receber 1 letra, sendo o primeiro chute imediato.
 
 
 ##### Todas as funcionalidades:
