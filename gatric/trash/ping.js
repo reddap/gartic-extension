@@ -43,7 +43,7 @@ iframe.style.width = "0", iframe.style.height = "0", iframe.src = "https://garti
 
 
 // HTML da parte "seguir"
-/*
+
 if(document.URL==="https://gartic.com.br/"){
 var _buceta = document.createElement("input");
 _buceta.type = "text";
@@ -58,7 +58,7 @@ _botao.className = "stopChasingMe";
 _botao.style=`padding-left: 343px;padding-right: 343px;`
 document.querySelector('#blocoJogar > div.conteudo').append(_botao);
 }
-*/
+
 
 //x
 //sess, rec, biscuit
