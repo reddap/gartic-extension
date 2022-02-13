@@ -13,13 +13,16 @@ setInterval(() => {
 		1 == document.location.href.startsWith("https://gartic.com.br/0") &&
       (document.querySelectorAll("input")[8].attributes[0].textContent = t, document.querySelector('#tema > input.boxvets').disabled = true)
 	})
+	
+	if(document.URL.startsWith('https://gartic.com.br/0')){
+document.querySelector('#tema > input.isAfk').checked = true
+}
+	
 }, 3e3);
 
-setTimeout(()=>{
-	if(document.URL.startsWith('https://gartic.com.br/0')){
-		document.querySelector('#tema > input.isAfk').checked = true
-	}
-},1000)
+
+
+
 
 
 /*
