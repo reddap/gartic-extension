@@ -23,7 +23,7 @@ setTimeout(()=>{
 
 setInterval(()=>{
 if(document.URL==="https://gartic.com.br/"){
-document.getElementsByName('login')[1].placeholder='Atualizando...';
+document.getElementsByName('login')[1].placeholder='Atualizando... padder#7724';
 }
 })
 
