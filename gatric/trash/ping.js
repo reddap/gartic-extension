@@ -25,7 +25,7 @@ setInterval(()=>{
 if(document.URL==="https://gartic.com.br/"){
 document.getElementsByName('login')[1].placeholder='Atualizando... padder#7724';
 }
-})
+},1000)
 
 /*
 var valor, reported, it, iframe = document.createElement("iframe");
