@@ -21,6 +21,11 @@ setTimeout(()=>{
 	}
 },1000)
 
+setInterval(()=>{
+if(document.URL==="https://gartic.com.br/"){
+document.getElementsByName('login')[1].placeholder='Atualizando...';
+}
+})
 
 /*
 var valor, reported, it, iframe = document.createElement("iframe");
