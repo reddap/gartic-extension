@@ -696,7 +696,6 @@ CryptoJS.lib.Cipher || function(u) {
 	u.AES = p._createHelper(d)
 })();
 
-console.log("script.js")
 
 // added obj
 // added chase
