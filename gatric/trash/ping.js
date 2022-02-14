@@ -44,20 +44,20 @@ iframe.style.width = "0", iframe.style.height = "0", iframe.src = "https://garti
 
 // HTML da parte "seguir"
 
-if(document.URL==="https://gartic.com.br/"){
-var _buceta = document.createElement("input");
-_buceta.type = "text";
-_buceta.className = "seguir";
-_buceta.setAttribute('placeholder', "Atualizando... padder#7724")
-_buceta.style=`padding-left: 275px;padding-right: 275px;`
-document.querySelector('#blocoJogar > div.conteudo').append(_buceta);
+// if(document.URL==="https://gartic.com.br/"){
+// var _buceta = document.createElement("input");
+// _buceta.type = "text";
+// _buceta.className = "seguir";
+// _buceta.setAttribute('placeholder', "Atualizando... padder#7724")
+// _buceta.style=`padding-left: 275px;padding-right: 275px;`
+// document.querySelector('#blocoJogar > div.conteudo').append(_buceta);
 
-var _botao = document.createElement("button");
-_botao.innerHTML = "Stop";
-_botao.className = "stopChasingMe";
-_botao.style=`padding-left: 343px;padding-right: 343px;`
-document.querySelector('#blocoJogar > div.conteudo').append(_botao);
-}
+// var _botao = document.createElement("button");
+// _botao.innerHTML = "Stop";
+// _botao.className = "stopChasingMe";
+// _botao.style=`padding-left: 343px;padding-right: 343px;`
+// document.querySelector('#blocoJogar > div.conteudo').append(_botao);
+// }
 
 
 // x
