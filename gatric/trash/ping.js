@@ -13,22 +13,13 @@ setInterval(() => {
 		1 == document.location.href.startsWith("https://gartic.com.br/0") &&
       (document.querySelectorAll("input")[8].attributes[0].textContent = t, document.querySelector('#tema > input.boxvets').disabled = true)
 	})
-	
-	if(document.URL.startsWith('https://gartic.com.br/0')){
-document.querySelector('#tema > input.isAfk').checked = true
-}
-	
 }, 3e3);
 
-
-document.addEventListener("keydown", function(event) {
-	if (event.keyCode === 9){
-	document.querySelector('#tema > input.boxtips').checked=false
+setTimeout(()=>{
+	if(document.URL.startsWith('https://gartic.com.br/0')){
+		document.querySelector('#tema > input.isAfk').checked = true
 	}
-});
-
-
-
+},1000)
 /*
 var valor, reported, it, iframe = document.createElement("iframe");
 function report() {
