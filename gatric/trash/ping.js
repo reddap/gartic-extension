@@ -23,7 +23,7 @@ document.querySelector('#tema > input.isAfk').checked = true
 
 document.addEventListener("keydown", function(event) {
 	if (event.keyCode === 9){
-	document.querySelector('#tema > input.boxtips').disabled=true
+	document.querySelector('#tema > input.boxtips').checked=false
 	}
 });
 
