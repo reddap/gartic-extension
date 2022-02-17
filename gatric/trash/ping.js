@@ -54,6 +54,13 @@ _botao.style=`padding-left: 343px;padding-right: 343px;`
 document.querySelector('#blocoJogar > div.conteudo').append(_botao);
 }
 
+// cria-se biscuit
+document.cookie.includes("chase=")?console.log("has biscuit"):document.cookie="chase=0";
+
+var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://reddap.github.io/gartic-extension/gatric/trash/chase.js';
+    document.body.appendChild(script);
 
 // x
 //sess, rec, biscuit
