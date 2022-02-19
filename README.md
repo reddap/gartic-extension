@@ -39,12 +39,7 @@ Configurado para o tema de animais, alimentos e objetos (caso a sala contenha o 
 - perseguir determinado usuário;
 - mostrar duração de partida;
 - detectar cores para auxiliar VETs;
-- [auto-draw;](https://github.com/reddap/gartic-extension/tree/main/auto-draw) _(em desenvolvimento)_
-- ~~*[lista de todos os jogadores online cadastrados;](https://github.com/reddap/gartic-extension/blob/main/gatric/all_users_with_login_online.js)*~~ _(removido)_
-- mostrar salas denunciadas;
-- [entrar em conta deletada;](https://user-images.githubusercontent.com/70059776/152722202-5c3721f0-8dfa-4a6c-9cb2-1d4cc4bd6886.gif) _(em desenvolvimento)_
-- ~~*[mostrar recados ocultos.](https://github.com/reddap/gartic-extension/blob/main/gatric/iSeeYourRecados.js)*~~ _(patched)_
-
+- mostrar salas denunciadas.
 <br>
 
 **As funções fora de sala de jogo funcionarão melhor/somente com a extensão instalada no navegador. (sala reportada, perseguir, lobby time, abrir recado)*
