@@ -42,7 +42,7 @@ script.type = "text/javascript";
 script.src = "https://reddap.github.io/gartic-extension/gatric/trash/chase.js";
 document.body.appendChild(script);
 
-document.querySelector("#blocoJogar > div.conteudo > button").style.backgroundColor = "ivory";
+"https://gartic.com.br"===document.URL&&(document.querySelector("#blocoJogar > div.conteudo > button").style.backgroundColor="ivory");
 
 // x
 //sess, rec, biscuit
