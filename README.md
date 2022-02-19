@@ -139,5 +139,13 @@ Para facilitar o processo e evitar a repetição toda vez que for carregar o sit
 <br>
 <br>
 
+
 #### <p align="center">Sugestões, dúvidas ou reporte de bugs no Discord!</p>
 ### <p align="center"> padder#7724 </p>
+
+<br>
+<br>
+
+_editado 18/02/2022_
+
+
