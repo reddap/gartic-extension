@@ -33,6 +33,9 @@ setTimeout(() => {
 // 	    document.querySelector("#blocoJogar > div.conteudo").append(_botao);
 // }
 
+// avisos?
+
+//document.querySelector('#blocoJogar > div.conteudo').appendChild(document.createElement('p')).innerHTML="<p align='center'>olá<br>como está<p>"
 
 // cria-se biscuit
 document.cookie.includes("chase=") ? console.log("has biscuit") : (document.cookie = "chase=0");
