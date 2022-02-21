@@ -85,9 +85,9 @@ Caso "is AFK" estiver marcada, a conta não sairá da sala por ausência.*
 <br>
 <br>
 
-#### Perseguir usuários
+#### Seguir usuários
 ![GIF](https://user-images.githubusercontent.com/70059776/152674550-87a520cd-d88f-4446-ae70-621e9715678a.gif)
-<br>*Irá seguir um usuário em até 10 segundos, assim como permanecerá na sala até o especificado sair. (não mexa na página principal ou a que será aberta, estará sendo controlada pela primeira -- para desativar, feche a página que foi aberta)*
+<br>*Irá seguir um usuário em até 14 segundos, assim como permanecerá na sala até o especificado sair. (v2: irá sair da sala quando o usuário estiver "offline", logo, quando quiser entrar em uma sala normal, clique em "stop" para parar a observação. - 17/02/2022)
 <br>
 <br>
 ![image](https://user-images.githubusercontent.com/70059776/152868212-a588f3de-68a2-4e31-8fc7-bc455a895a3d.png)<br>
