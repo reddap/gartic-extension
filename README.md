@@ -60,10 +60,13 @@ Alguma dúvida sobre o tutorial acima, acesse mais explicado em [para_leigos.md]
 <br>
 <br>
 
-##### Ativar/Desativar
-![GIF](https://media.discordapp.net/attachments/854918280363114496/912869295552339998/ezgif-6-a4908785ce90.gif)
+##### Tools box (Hint/Report, isAFK, TIPs, VETs, cronômetro)
+![image](https://user-images.githubusercontent.com/70059776/154936994-66f93acb-ca99-436a-8181-06fa77509b7c.png)
 <br>*Funções estarão ativas enquanto a caixa estiver marcada.<br>
-Caso "is AFK" estiver marcada, a conta não sairá da sala por ausência.*
+Caso "is AFK" estiver marcada, a conta não sairá da sala por ausência.*<br>
+**Hint**: irá dar dica antes de apertar em desenhar. (inútil, não?)<br>
+**Report**: irá denunciar sem aparecer aviso de confirmação.<br>
+**Cronômetro**: ao entrar em sala e a partida finalizar, iniciará o cronômetro. Voltará a zero ao terminar partida.
 <br>
 <br>
 
