@@ -65,10 +65,15 @@ var fodida = setInterval(() => {
 // biscuit (3)
 
 // aviso para crianças
-"https://gartic.com.br/" === document.URL &&
-    document.querySelector("#blocoJogar > div.conteudo > input").addEventListener("keyup", function (e) {
-        13 === e.keyCode && (alert('Clique em "stop" para interromper a observação e poder jogar normalmente.'), location.reload());
-    });
+var putinha = setInterval(() => {
+    "https://gartic.com.br/" === document.URL &&
+        document.querySelector("#blocoJogar > div.conteudo > input") &&
+        (document.querySelector("#blocoJogar > div.conteudo > input").addEventListener("keyup", function (e) {
+            13 === e.keyCode && (alert('Clique em "stop" para interromper a observação e poder jogar normalmente.'), location.reload());
+        }),
+        clearInterval(putinha));
+}, 333);
+
 
 // filtro "porta"
 document.URL.startsWith("https://gartic.com.br/0") &&
