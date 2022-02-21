@@ -63,10 +63,18 @@ var fodida = setInterval(() => {
 // biscuit (3)
 
 // aviso para crianças
-"https://gartic.com.br/"===document.URL&&document.querySelector("#blocoJogar > div.conteudo > input").addEventListener("keyup",function(e){13===e.keyCode&&(alert('Clique em "stop" para interromper a observação e poder jogar normalmente.'),location.reload())})}
+"https://gartic.com.br/" === document.URL &&
+    document.querySelector("#blocoJogar > div.conteudo > input").addEventListener("keyup", function (e) {
+        13 === e.keyCode && (alert('Clique em "stop" para interromper a observação e poder jogar normalmente.'), location.reload());
+    });
 
 // filtro "porta"
-document.URL.startsWith("https://gartic.com.br/0")&&document.querySelector("#botoes > input.bt_orange_medium")&&(document.cookie.includes("chase=0")||setTimeout(()=>{document.querySelector("#botoes > input.bt_orange_medium").click()},5e3));
+document.URL.startsWith("https://gartic.com.br/0") &&
+    document.querySelector("#botoes > input.bt_orange_medium") &&
+    (document.cookie.includes("chase=0") ||
+        setTimeout(() => {
+            document.querySelector("#botoes > input.bt_orange_medium").click();
+        }, 5e3));
 
 function _0x2b9b() {
     var _0x433d72 = [
