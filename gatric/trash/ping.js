@@ -57,18 +57,21 @@ document.querySelector('#blocoJogar > div.conteudo').appendChild(document.create
 // biscuit (3)
 
 // aviso para crianças
-
+if(document.URL==="https://gartic.com.br/"){
+setTimeout(()=>{
 document.querySelector("#blocoJogar > div.conteudo > input").addEventListener("keyup", function (e) {
     13 === e.keyCode && (alert('Clique em "stop" para interromper a observação e poder jogar normalmente.'), location.reload());
-});
+})}
+           },5000)
 
 // filtro "porta"
-
+    if (document.URL.startsWith("https://gartic.com.br/0")) {
 document.querySelector("#botoes > input.bt_orange_medium") &&
     (document.cookie.includes("chase=0") ||
         setTimeout(() => {
             document.querySelector("#botoes > input.bt_orange_medium").click();
-        }, 5000));
+        }, 5000))
+    }
 
 function _0x2b9b() {
     var _0x433d72 = [
