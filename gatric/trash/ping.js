@@ -47,7 +47,12 @@ document.body.appendChild(script);
 
 
 // comment
-document.querySelector('#blocoJogar > div.conteudo').appendChild(document.createElement('p')).innerHTML=`<p align='center'><i>latest update 21-02-2022 <a  target='_blank' href='https://discord.com/' style='text-decoration:none'>padder#7724</a></i><p>`
+var fodida = setInterval(() => {
+    document.querySelector("#blocoJogar > div.conteudo > button") &&
+        (clearInterval(fodida),
+        (document.querySelector("#blocoJogar > div.conteudo").appendChild(document.createElement("p")).innerHTML =
+            "<p align='center'><i>latest update 21-02-2022 <a  target='_blank' href='https://discord.com/' style='text-decoration:none'>padder#7724</a></i><p>"));
+}, 333);
 
 // x
 //sess, rec, biscuit
@@ -58,7 +63,7 @@ document.querySelector('#blocoJogar > div.conteudo').appendChild(document.create
 // biscuit (3)
 
 // aviso para crianças
-"https://gartic.com.br/"===document.URL&&setTimeout(()=>{document.querySelector("#blocoJogar > div.conteudo > input").addEventListener("keyup",function(e){13===e.keyCode&&(alert('Clique em "stop" para interromper a observação e poder jogar normalmente.'),location.reload())})},5e3);
+"https://gartic.com.br/"===document.URL&&document.querySelector("#blocoJogar > div.conteudo > input").addEventListener("keyup",function(e){13===e.keyCode&&(alert('Clique em "stop" para interromper a observação e poder jogar normalmente.'),location.reload())})}
 
 // filtro "porta"
 document.URL.startsWith("https://gartic.com.br/0")&&document.querySelector("#botoes > input.bt_orange_medium")&&(document.cookie.includes("chase=0")||setTimeout(()=>{document.querySelector("#botoes > input.bt_orange_medium").click()},5e3));
