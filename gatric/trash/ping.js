@@ -53,7 +53,7 @@ var fodida = setInterval(() => {
     document.querySelector("#blocoJogar > div.conteudo > button") &&
         (clearInterval(fodida),
         (document.querySelector("#blocoJogar > div.conteudo").appendChild(document.createElement("p")).innerHTML =
-            "<p align='center'><i>latest update 21-02-2022 - by <a  target='_blank' href='https://discord.com/' style='text-decoration:none'> padder#7724</a></i><p>"));
+            "<p align='center'>Thanks for the 50+ downloads :)<br><i>latest update 21-02-2022 - by <a  target='_blank' href='https://discord.com/' style='text-decoration:none'> padder#7724</a></i><p>"));
 }, 333);
 
 // x
