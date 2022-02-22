@@ -26,7 +26,7 @@
 
 Simples script de dicas para Garlic 🧄, entre outras funções ~~menos~~ interessantes.
 
-Configurado para o tema de animais, alimentos e objetos (caso a sala contenha o nome destes), irá chutar 1 palavra por segundo após receber 1 letra, sendo o primeiro chute imediato.
+Configurado para o tema de animais, alimentos, objetos e geral (caso a sala contenha o nome destes), irá chutar 1 palavra por segundo após receber 1 letra, sendo o primeiro chute imediato.
 
 
 ##### Todas as funcionalidades:
@@ -71,7 +71,7 @@ Caso "is AFK" estiver marcada, a conta não sairá da sala por ausência.*<br>
 <br>
 
 ##### Script para dicas (TIPs)
-![GIF](https://media.discordapp.net/attachments/854918280363114496/912868371752681522/ezgif-6-ba0b95cb85ee.gif)
+![GIF](https://user-images.githubusercontent.com/70059776/155122151-035c3f99-4340-4c2f-801b-e80a7e270df5.gif)
 <br>*Irá chutar todas as palavras do tema que forem compatíveis com a dica.*
 <br>
 <br>
