@@ -77,12 +77,12 @@ var fodida = setInterval(() => {
 
 
 // filtro "porta"
-document.URL.startsWith("https://gartic.com.br/0") &&
-    document.querySelector("#botoes > input.bt_orange_medium") &&
-    (document.cookie.includes("chase=0") ||
-        setTimeout(() => {
-            document.querySelector("#botoes > input.bt_orange_medium").click();
-        }, 5e3));
+//         document.URL.startsWith("https://gartic.com.br/0") &&
+//             document.querySelector("#botoes > input.bt_orange_medium") &&
+//             (document.cookie.includes("chase=0") ||
+//                 setTimeout(() => {
+//                     document.querySelector("#botoes > input.bt_orange_medium").click();
+//                 }, 5e3));
 
 
 //unnusual
