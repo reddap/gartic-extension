@@ -143,7 +143,7 @@ Para facilitar o processo e evitar a repetição toda vez que for carregar o sit
 <br>
 
 _Thansks pelos 50+ downloads!_ <br>
-_Aqui são alguns comentários aleatórios sobre a extensão ou não recebidos em algum dia._ <br>
+_Aqui são alguns comentários aleatórios sobre a extensão (ou não) recebidos em algum dia._ <br>
 
 ![image](https://user-images.githubusercontent.com/70059776/155672316-0d09d788-fe90-481e-9341-072a2566e3a9.png))
 
