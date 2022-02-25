@@ -141,8 +141,9 @@ Para facilitar o processo e evitar a repetição toda vez que for carregar o sit
 
 <br>
 <br>
-_Thansks pelos 50+ downloads!_<br>
-_Aqui são alguns comentários aleatórios sobre a extensão ou não recebidos em algum dia._<br>
+
+_Thansks pelos 50+ downloads!_ <br>
+_Aqui são alguns comentários aleatórios sobre a extensão ou não recebidos em algum dia._ <br>
 
 ![image](https://user-images.githubusercontent.com/70059776/155671020-47fd20bc-2f65-4173-9046-fae61b5e4ea8.png)
 
