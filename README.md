@@ -145,7 +145,7 @@ Para facilitar o processo e evitar a repetição toda vez que for carregar o sit
 _Thansks pelos 50+ downloads!_ <br>
 _Aqui são alguns comentários aleatórios sobre a extensão (ou não) recebidos em algum dia._ <br>
 
-![image](https://user-images.githubusercontent.com/70059776/155701823-7b4157da-10b6-463a-84f2-0bac8fa840ca.png)
+![image](https://user-images.githubusercontent.com/70059776/155742268-a3cfb9d8-8490-4091-b549-c85ec2e03b76.png)
 
 #### <p align="center">Sugestões, dúvidas ou reporte de bugs no Discord!</p>
 ### <p align="center"> padder#7724 </p>
