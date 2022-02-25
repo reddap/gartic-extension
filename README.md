@@ -71,7 +71,7 @@ Caso "is AFK" estiver marcada, a conta não sairá da sala por ausência.*<br>
 <br>
 
 ##### Script para dicas (TIPs)
-![GIF](https://user-images.githubusercontent.com/70059776/155122151-035c3f99-4340-4c2f-801b-e80a7e270df5.gif)
+![GIF](https://user-images.githubusercontent.com/70059776/155624171-f1986598-b6ba-4552-be53-1115e7cb3775.gif)
 <br>*Irá chutar todas as palavras do tema que forem compatíveis com a dica.*
 <br>
 <br>
@@ -141,7 +141,10 @@ Para facilitar o processo e evitar a repetição toda vez que for carregar o sit
 
 <br>
 <br>
+_Thansks pelos 50+ downloads!_<br>
+_Aqui são alguns comentários aleatórios sobre a extensão ou não recebidos em algum dia._<br>
 
+![image](https://user-images.githubusercontent.com/70059776/155671020-47fd20bc-2f65-4173-9046-fae61b5e4ea8.png)
 
 #### <p align="center">Sugestões, dúvidas ou reporte de bugs no Discord!</p>
 ### <p align="center"> padder#7724 </p>
