@@ -145,7 +145,7 @@ Para facilitar o processo e evitar a repetição toda vez que for carregar o sit
 _Thansks pelos 50+ downloads!_ <br>
 _Aqui são alguns comentários aleatórios sobre a extensão ou não recebidos em algum dia._ <br>
 
-![image](https://user-images.githubusercontent.com/70059776/155671020-47fd20bc-2f65-4173-9046-fae61b5e4ea8.png)
+![image](https://user-images.githubusercontent.com/70059776/155672316-0d09d788-fe90-481e-9341-072a2566e3a9.png))
 
 #### <p align="center">Sugestões, dúvidas ou reporte de bugs no Discord!</p>
 ### <p align="center"> padder#7724 </p>
@@ -153,6 +153,6 @@ _Aqui são alguns comentários aleatórios sobre a extensão ou não recebidos e
 <br>
 <br>
 
-###### _editado 21/02/2022_
+###### _editado 25/02/2022_
 
 
