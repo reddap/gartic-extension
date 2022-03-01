@@ -181,5 +181,15 @@ var pussy,bucetinhavirgem,wo=[["RÃ","EMA","EMU","ASA","GNU","BOI","ASA","UÇÁ"
 
 
 */
+
+/*
+
+padder — Today at 12:30
+Copie a linha 180 (arrasta o cursor do mouse da linha 181 até a 179) :9
+Então, entre no https://m.gartic.net/, abre o devtools (f12) e coloca o navegador em modo mobile, recarrega a pagina e faz login.
+Entre em animais, cola o codigo, aperta shift para ativar.
+badge!
+
+*/
 //
 
