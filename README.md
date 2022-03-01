@@ -1,3 +1,41 @@
+<!---
+
+
+
+# <samp>importante?</samp>
+<i><samp>nao irei mais atualizar estes scripts, pois tenho coisas melhores para fazer.
+<br>assim como eu não jogo gartic faz tempo. não tenho conta e nem entro para jogar.
+<br>(excessão deste fevereiro de 2022, mais (adição/acréscimo/+) para testar scripts novos)
+<br>se acha que já falou comigo no gartic, nao falou.
+<br>o meu unico contato é o discord, por enquanto (enquanto o appl nao morre).
+<br>não me chame para falar de programação, eu nao entendo nada. então, estamos sem assunto. ;)
+<br>a senha das minhas contas temporárias é 000. caso se lembre de alguma, só entrar. 🎣    
+<br>nao finja que me conhece para ser descolada com seus amigos!
+<br>mas sinta-se à vontade para atrasar os outros utilizando o meu nome.
+<br>tipo: "eu finjo ser o pader pra pegar garotas"
+<br>
+<br>thank is a quem participou das gameplays comigo. incluindo as moderadoras (e EU SEI QUE VOCÊ OLHA este REPOSITÓRIO! tenho provas!!!)
+<br>(mas o que a falta de diálogo faz, nao é...)
+<br>(se tivessem me perguntado o que mais tem de errado no website, eu falaria gratuitamente umas cem ou cinco coisas)
+<br>e também os 70+ downloads e mais de 200 utilizadores em 20 dias!
+</samp></i>
+
+
+_Aqui são alguns comentários aleatórios sobre a extensão (ou não) recebidos em algum dia._ <br>
+
+![image](https://user-images.githubusercontent.com/70059776/155742268-a3cfb9d8-8490-4091-b549-c85ec2e03b76.png)
+
+<strong>por agora... apresentação do script. última atualização: 01/03/2022</strong>
+
+
+<br>
+<br>
+  
+
+
+-->
+
+
 <a href="https://youtu.be/qNQZiHl13w0">
 <p align="center">
   <img src="https://i.imgur.com/6DhIvSz.png" />
@@ -19,7 +57,7 @@
 - [Como usar (sem extensão do Chrome)](https://github.com/reddap/gartic-extension#usagem)
 - [Demonstração](https://github.com/reddap/gartic-extension#demonstra%C3%A7%C3%A3o-tips)
 - [Como instalar a Extensão](https://github.com/reddap/gartic-extension#extens%C3%A3o)
-- [Ajuda](https://github.com/reddap/gartic-extension#sugest%C3%B5espedidos-no-discord)
+- <s>[Ajuda](https://github.com/reddap/gartic-extension#sugest%C3%B5espedidos-no-discord)</s>
 
 ## Introduction 
 
@@ -31,15 +69,15 @@ Configurado para o tema de animais, alimentos, objetos e geral (caso a sala cont
 
 ##### Todas as funcionalidades:
 - acertar automaticamente palavras com dica;
-- não desconectar-se da sala por ausência;
-- mudar cores;
-- quick tip/report;
-- mostrar ping;
-- mostrar tempo que ficou no lobby;
-- perseguir determinado usuário;
-- mostrar duração de partida;
 - detectar cores para auxiliar VETs;
-- mostrar salas denunciadas.
+- mostrar duração de partida;
+- mostrar ping;
+- mostrar salas denunciadas;
+- mostrar tempo que ficou no lobby;
+- mudar cores;
+- não desconectar-se da sala por ausência;
+- perseguir determinado usuário;
+- quick tip/report.
 <br>
 
 **As funções fora de sala de jogo funcionarão melhor/somente com a extensão instalada no navegador. (sala reportada, perseguir, lobby time, abrir recado)*
@@ -139,21 +177,17 @@ Para facilitar o processo e evitar a repetição toda vez que for carregar o sit
 <br>
 
 -----
-
-<br>
-<br>
-
-_Thansks pelos 50+ downloads!_ <br>
-_Aqui são alguns comentários aleatórios sobre a extensão (ou não) recebidos em algum dia._ <br>
-
 ![image](https://user-images.githubusercontent.com/70059776/155742268-a3cfb9d8-8490-4091-b549-c85ec2e03b76.png)
+<br>
+<br>
 
-#### <p align="center">Sugestões, dúvidas ou reporte de bugs no Discord!</p>
-### <p align="center"> padder#7724 </p>
+
+#### <p align="center"><s>Sugestões, dúvidas ou reporte de bugs no Discord!</s></p>
+### <p align="center"> <s>padder#7724</s> </p>
 
 <br>
 <br>
 
-###### _editado 25/02/2022_
 
 
+  
