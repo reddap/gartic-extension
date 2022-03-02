@@ -160,7 +160,7 @@ function cron() {
     var e = 0,
         t = setInterval(() => {
             null != document.querySelector("#usuarios > div.lista > div > div.user.proprio.acertou") && /*/ o cronometro inicia quando o botao de denunciar é removido. quando o 'user proprio' acertar, o cronometro irá parar. sabendo assim quanto tempo o script demorou para acertar /*/
-                ((document.querySelector("#respostas > form > label > input").value = "Acerto! " +  e / 100 + "s"),
+                ((document.querySelector("#respostas > form > label > input").value = "Acertou! " +  e / 100 + "s"),
                  clearInterval(pussy),
                  clearInterval(bucetinhavirgem),
                  clearInterval(t), /*/ só este é útil /*/
