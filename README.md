@@ -3,11 +3,11 @@
 
 
 # <samp>importante?</samp>
-<i><samp>olá! eu sou "padder". sou quem fez essas scripts simples de diversão por diversão.
+<samp><strong>olá! eu sou "padder". sou quem fez essas scripts simples de diversão por diversão.
 <br>a maioria delas são ideias boas feitas de um jeito ruim. o que combina bastante com o game, logo não foi um problema...
 <br>retornei aqui com esse texto para abandonar o repositório e comunicar-me com quem me conhece uma "última" vez. 👋
-<br>não irei mais atualizar estes scripts, pois tenho coisas melhores para fazer.
-<br>assim como eu não jogo gartic faz tempo, não tenho conta e nem entro para jogar.
+<br>não irei mais atualizar estes scripts, pois tenho coisas melhores para fazer.</strong>
+<br><i>assim como eu não jogo gartic faz tempo, não tenho conta e nem entro para jogar.
 <br>(excessão deste fevereiro de 2022, mais (adição/acréscimo/+) para testar scripts novos)
 <br>se acha que já falou comigo no gartic, não falou.
 <br>o meu único contato é no discord, por enquanto. (enquanto o appl não morre)
@@ -15,13 +15,15 @@
 <br>a senha das minhas contas temporárias é 000. caso se lembre de alguma, só entrar. 🎣    
 <br>não finja que me conhece para ser descolada com seus amigos!
 <br>mas sinta-se à vontade para atrasar os outros utilizando o meu nome, tornou-se normal faz tempo.
-<br>tipo: "eu finjo ser o pader pra pegar garotas"
+<br>tipo: "eu finjo ser o pader pra pegar garotas"</i>
 <br>
-<br>thank is a quem participou das gameplays comigo. incluindo as moderadoras. (e EU SEI QUE VOCÊ OLHA este REPOSITÓRIO! tenho provas!!!)
+<br><strong>thank is a quem participou das gameplays comigo. incluindo as moderadoras.</strong> <i><br>
+  (EU SEI QUE VOCÊ OLHA este REPOSITÓRIO! tenho provas!!!)
 <br>(mas o que a falta de diálogo faz, nao é...)
-<br>(se tivessem me perguntado o que mais tem de errado no website, eu falaria gratuitamente umas cem ou cinco coisas)
+<br>(se tivessem me perguntado o que mais tem de errado no website, eu falaria gratuitamente umas cem ou cinco coisas)</i>
+ <strong>
 <br>e também os 70+ downloads e mais de 200 utilizadores em 20 dias!
-</samp></i>
+</samp></strong>
 
 
 _Aqui são alguns comentários aleatórios sobre a extensão (ou não) recebidos em algum dia._ <br>
