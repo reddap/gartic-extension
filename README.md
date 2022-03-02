@@ -1,6 +1,6 @@
 
 
-
+<!--
 
 # <samp>importante?</samp>
 <i><samp>olá! eu sou "padder". sou quem fez essas scripts simples de diversão por diversão.
@@ -37,7 +37,7 @@ _Aqui são alguns comentários aleatórios sobre a extensão (ou não) recebidos
 
 
 
-
+-->
 
 <a href="https://youtu.be/qNQZiHl13w0">
 <p align="center">
