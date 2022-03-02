@@ -68,8 +68,7 @@ Simples script de dicas para Garlic 🧄, entre outras funções ~~menos~~ inter
 
 Configurado para o tema de animais, alimentos, objetos e geral (caso a sala contenha o nome destes), irá chutar 1 palavra por segundo após receber 1 letra, sendo o primeiro chute imediato.
 
-# Última função feita:
-### <strong>[massive.js](https://github.com/reddap/gartic-extension/blob/main/gatric/trash/massive-explicado.js)</strong>
+### Última função feita: <strong>[massive.js](https://github.com/reddap/gartic-extension/blob/main/gatric/trash/massive-explicado.js)</strong>
 
 
 ![GIF](https://user-images.githubusercontent.com/70059776/156271171-7d40b636-f7f0-4cd2-8588-bf751671d100.gif)<br>
@@ -88,8 +87,6 @@ Acertará qualquer animal em (média) até 5 segundos. (toda a explicação come
 - perseguir determinado usuário;
 - quick tip/report.
 <br>
-
-
 <br>
 
 ## Usagem
