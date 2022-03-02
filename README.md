@@ -73,8 +73,7 @@ Configurado para o tema de animais, alimentos, objetos e geral (caso a sala cont
 
 
 ![GIF](https://user-images.githubusercontent.com/70059776/156271171-7d40b636-f7f0-4cd2-8588-bf751671d100.gif)<br>
-Acertará qualquer animal em média até 5 segundos. (toda a explicação comentada no [script](https://github.com/reddap/gartic-extension/blob/main/gatric/trash/massive-explicado.js))
-
+Acertará qualquer animal em (média) até 5 segundos. (toda a explicação comentada no [script](https://github.com/reddap/gartic-extension/blob/main/gatric/trash/massive-explicado.js))
 
 
 ##### Todas as funcionalidades:
