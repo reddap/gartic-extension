@@ -1,6 +1,6 @@
 
 
-<!--
+
 
 # <samp>importante?</samp>
 <i><samp>olá! eu sou "padder". sou quem fez essas scripts simples de diversão por diversão.
@@ -37,7 +37,7 @@ _Aqui são alguns comentários aleatórios sobre a extensão (ou não) recebidos
 
 
 
--->
+
 
 <a href="https://youtu.be/qNQZiHl13w0">
 <p align="center">
@@ -70,11 +70,11 @@ Simples script de dicas para Garlic 🧄, entre outras funções ~~menos~~ inter
 Configurado para o tema de animais, alimentos, objetos e geral (caso a sala contenha o nome destes), irá chutar 1 palavra por segundo após receber 1 letra, sendo o primeiro chute imediato.
 
 # Última função feita:
-**[massive.js](https://github.com/reddap/gartic-extension/blob/main/gatric/trash/massive-explicado.js)
+### <strong>[massive.js](https://github.com/reddap/gartic-extension/blob/main/gatric/trash/massive-explicado.js)</strong>
 
 
-![GIF](https://user-images.githubusercontent.com/70059776/156271171-7d40b636-f7f0-4cd2-8588-bf751671d100.gif)
-Acertará qualquer animal em média até 5 segundps. (toda a explicação comentada no script)
+![GIF](https://user-images.githubusercontent.com/70059776/156271171-7d40b636-f7f0-4cd2-8588-bf751671d100.gif)<br>
+Acertará qualquer animal em média até 5 segundps. (toda a explicação comentada no [script](https://github.com/reddap/gartic-extension/blob/main/gatric/trash/massive-explicado.js))
 
 
 
@@ -91,7 +91,6 @@ Acertará qualquer animal em média até 5 segundps. (toda a explicação coment
 - quick tip/report.
 <br>
 
-**As funções fora de sala de jogo funcionarão melhor/somente com a extensão instalada no navegador. (sala reportada, perseguir, lobby time, abrir recado)*
 
 <br>
 
