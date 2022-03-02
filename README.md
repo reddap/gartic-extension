@@ -1,7 +1,4 @@
 
-
-
-
 # <samp>importante?</samp>
 <samp><strong>olá! eu sou "padder". sou quem fez essas scripts simples de diversão por diversão.
 <br>a maioria delas são ideias boas feitas de um jeito ruim. o que combina bastante com o game, logo não foi um problema...
@@ -76,7 +73,7 @@ Configurado para o tema de animais, alimentos, objetos e geral (caso a sala cont
 
 
 ![GIF](https://user-images.githubusercontent.com/70059776/156271171-7d40b636-f7f0-4cd2-8588-bf751671d100.gif)<br>
-Acertará qualquer animal em média até 5 segundps. (toda a explicação comentada no [script](https://github.com/reddap/gartic-extension/blob/main/gatric/trash/massive-explicado.js))
+Acertará qualquer animal em média até 5 segundos. (toda a explicação comentada no [script](https://github.com/reddap/gartic-extension/blob/main/gatric/trash/massive-explicado.js))
 
 
 
