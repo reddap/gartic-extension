@@ -1,6 +1,7 @@
 
 # <samp>importante?</samp>
-<samp><strong>olá! eu sou "padder". sou quem fez essas scripts simples de diversão por diversão.
+<samp><strong>olá! eu sou "padder". 
+  <!--!sou quem fez essas scripts simples de diversão por diversão.
 <br>a maioria delas são ideias boas feitas de um jeito ruim. o que combina bastante com o game, logo não foi um problema...
 <br>retornei aqui com esse texto para abandonar o repositório e comunicar-me com quem me conhece uma "última" vez. 👋
 <br>não irei mais atualizar estes scripts, pois tenho coisas melhores para fazer.</strong>
@@ -22,7 +23,8 @@
 <br>e também os 70+ downloads e mais de 200 utilizadores em 20 dias!
 </samp></strong>
 
-
+-->
+  (o texto ficou comentado :9, volte depois.)<br>
 _Aqui são alguns comentários aleatórios sobre a extensão (ou não) recebidos em algum dia._ <br>
 
 ![image](https://user-images.githubusercontent.com/70059776/156269507-d19c223c-ab92-44c2-8b46-bc4dcae036dd.png)
