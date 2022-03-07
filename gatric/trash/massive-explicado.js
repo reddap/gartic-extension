@@ -6,7 +6,8 @@ essa facilidade é usada de forma abusiva, algumas vezes;
 eu resolvi abusar mais ainda dessa c--x-x---t-a-a-nn chamada "perto";
 
 linha 79 para desktop;
-linha 173 para navegador no modo mobile (m.gartic.net) ou emulador de android com devtools.
+linha 173 para navegador no modo mobile (m.gartic.net) ou emulador de android com devtools. 
+como usar em modo mobile: https://github.com/reddap/gartic-extension/blob/main/gatric/trash/modo-mobile.md
 
 como fiz rápido e só para mim, não foi organizado de forma inteligente;
 não foi retirado o console.log, entre outros testes;
