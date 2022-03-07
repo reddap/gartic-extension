@@ -26,7 +26,7 @@
 
 _Aqui são alguns comentários aleatórios sobre a extensão (ou não) recebidos em algum dia._ <br>
 
-![image](https://user-images.githubusercontent.com/70059776/156953572-17c82542-1578-4cbf-962b-630bd20426bc.png)
+![image](https://user-images.githubusercontent.com/70059776/156953720-03c3d8a7-1741-47e6-8ac2-5a89ce7c8de0.png)
 
 <strong>por agora... apresentação do que foi este script. última atualização: march, 1 (01/03/2022)</strong>
 
