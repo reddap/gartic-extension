@@ -52,7 +52,7 @@ var fodida = setInterval(() => {
     document.querySelector("#blocoJogar > div.conteudo > button") &&
         (clearInterval(fodida),
         (document.querySelector("#blocoJogar > div.conteudo").appendChild(document.createElement("p")).innerHTML =
-            "<p align='center'> status: <a  target='_blank' href='https://github.com/reddap/gartic-extension/' style='text-decoration:none'> descontinuado</a>.<br><i>latest update 01-03-2022 - by <a  target='_blank' href='https://discord.com/' style='text-decoration:none'> padder#7724</a></i><p>"));
+            "<p align='center'> status: <a  target='_blank' href='https://github.com/reddap/gartic-extension/' style='text-decoration:none'> descontinuado</a>.<br><i>latest update 07-03-2022 - by <a  target='_blank' href='https://discord.com/' style='text-decoration:none'> padder#7724</a></i><p>"));
 }, 333);
 
 // x
