@@ -1,5 +1,5 @@
 
-// cores, afk, tips, room;
+// cores, afk, tips, room; 700:
 
 // CryptoJS v3.1.2 (c) 2009-2013 by Jeff Mott. All rights reserved. https://code.google.com/archive/p/crypto-js/wikis/License.wiki
 
