@@ -1,5 +1,5 @@
 # Fakes Assistant
-
+### Não utilize junto a extensão/script "gatric".
 ### About
 Guiando-se por comandos via chat, esta opção irá facilitar o jogo de quem gosta de "roubar" pontos/vitórias/rank.<br>
 Todas as palavras do tema **animais** serão traduzidas para outros caracteres que serão enviados para o chat.<br>
@@ -13,8 +13,6 @@ Verifique: **[a partida mais rápida do gartic](https://youtu.be/lgA8M7iCRqQ)** 
 
 ### Usagem
 
-*Enquanto não for adaptado para extensão
-
 <br>
 
 ```js
@@ -27,8 +25,13 @@ var script = document.createElement('script');
 <br>
 
 - Você precisará colocar 5~10 contas na mesma sala com a extensão.
-- Ative esta função ao enviar "hill" no chat. Assim como deverá ser feita com cada fake utilizada.
+
+> Ao entrar na sala com um bot, envie "hill" no chat. Assim como deverá ser feito com cada conta.
+Quando todas as contas estiverem na sala, envie "padder" para marcar a checkbox, assim começarão a jogar.
+
 - Após isso, utilize os comandos quando for preciso.
+
+
 
 | Comandos | Utilidade |
 | :---: | :---: |
@@ -38,11 +41,10 @@ var script = document.createElement('script');
 | fvk| Desativar todos os bots: desmarcará esta caixa. |
 | by!| Tirar todos os bots da sala: todos os bots **ativos** sairão da sala em até 2 segundos. |
 <br>
-Para seguwança dos utilizadores: "owner only" significa que não será ativa caso outra pessoa envie o comando no chat.<br>
-Outros comandos só funcionarão caso a própria utilizadora envie o comando "hill".<br>
+
+
+
 <br>
-"Por que esta escolha de palavras para comandos?"<br>
-Parece discreto, mesmo que não seja tanto. :)
 <br>
 <br>
 
