@@ -1,3 +1,10 @@
+## News
+
+#### Quick Tutorial: como tirar o delay do enter no PC (mencionado no massive.js)
+
+![image](https://media.discordapp.net/attachments/901058253276995634/970158351176568872/20220430_235931.jpg)
+
+30/04/2022
 
 # <samp>importante?</samp>
 <samp><strong>olá! eu sou "padder". 
